@@ -5,7 +5,7 @@ namespace Lab4
     class PersonalComputer : Device
     {
         public PersonalComputer(string brand, decimal price, int yearOfRelease, string serialNumber)
-        {
+        {vjhgjhgjhmnbjkhvhmgvmhgghjfvhg
             Price = price;
             YearOfRelease = yearOfRelease;
             SerialNumber = serialNumber;

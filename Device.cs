@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lab4
+namespace Lab433
 {
     abstract class Device
     {
